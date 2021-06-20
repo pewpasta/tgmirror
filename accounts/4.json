@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cogent-coyote-317211",
+  "private_key_id": "01a28bc38c05ef04ebf6d3b4b7adec32295db2a1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzmmMxUmy9mAQY\nOR8IvatiiUq98VvBmL/93Xy7if1/c0L+T5ilxzT3DglL1iCUNhTRqkJCfmtHjbWx\ndBdQ5k+4J8p/G86aZTFIcbANYlfghW8VdQZ0hcHJeiidF6XFPaxFqkclSngIlQca\nYQHateuVdWSFceyL9WaqQYjDLkGQn34wYbZrNAcsXBLOzuMP90jLoQ7le/EUdkRG\nL9cU88zO/z79lAOLPnaLC8Ud+BD+sBVE1yPb7LCEYzkslKK/yYeF7ZtyScRVPfmc\nt/kZ/Hv9RGrSMZj+I8Wi2ZYKdlmbixLuuBRPAu1j10yQlMcCRKxYY51g8ivAKWjg\nquqtxp9BAgMBAAECggEABIn3DkjLOzpjhhoxdNbYRTf7hdPa8ghSd8+4ZoPs/mLT\nE1q/HJdteP3nkb1SWvSH76mKHaSUwPztldO9gBul8Z090psJDGFYzsAixx/QYTn2\nDfiEZn734AfgjWHK3HJ7z1HnlONuJ6deg9XmRlj5IHCUTwQLSpkz1EMuOeKKISW/\nvby2cW8aTapUkNLlKXORxWiTvFU8xNd5upyds0r8KklPY8h3VB0YsL38OwXYrwYg\n79L2xpOteAFzvjbOL0I3oOjF7xdRKBtWtsng8zHvrGD0vELn+h9dO2FO88dHV++J\nEKHTdZ2zcIlb98KfXS59k4UuOEIZyeCrcEzOlrQWwQKBgQD9CdY45sYcrhGQ/Q2N\nRe02BBuJfujmn7k/LTrVX6X9ghzSgWAu9XL5lFaZcZM0fAIKnCQr6ZWXnNao9Hjc\n3XAwlZurUtK1CsWiqmXDgA9KoD09TUDUWiurGrDE8vz/3WDHuDjA/E5SKgsUzq9C\nZWD+yzqu6NGNdzFq7pVygmmf8QKBgQC1tIVbaa6uXUVBOb7dQFzPHxtP24H79AY8\nEiQ3jMdry44ekclk+eNSVBO7CDujOaNER+D5o/uChaTKslzcZvtXnV83XDWZ8ssP\nZsW16xde/S1WheJ4+drpxGUzYdyj8KZVO9jENDFLPWJDGXue/yN5TnGUQDPG+lb2\nakxbiM9EUQKBgQC84k/oD9RI6mMwgMVR9KXa0Xwgyfxe01H75+5oAsssjqinNm4u\n/4fA6EswpYhGAF+hveZ+ZRIGp8vRORTTgfTSP4uBewTQoebfwyTNp9VCVpUAIp/H\nJDw+sGDN07ip4n3w+AJdhLmOOdYlxRcsj/K0n84BbMeoOxZHhStH3DOucQKBgQCw\noOxJMfAFutDJWLK6LAiLpfdMp1oxasJsvk3KWeS4WkSqXpjguTBKJUSQuK4QOsUE\naMK+qLKh6/uGtd8iuFB2mJmoHNBV9/d/3y0ta3tqcL0TsE23v1kXiDu/uM9b5WAq\n1mQeRYXtV5wfEbRjmCwJjUFHFSm/sDW8jxPunoysIQKBgHFg2Ky3cE/IH7eDsJ56\nDvx+TaSNgrXx78Z1ug+x0e4qMBpJMhZTQiAVFItSXiusN2/cjRm5MWjEjnLW2rgZ\nyOd2Lekf9I+0OFx2bCdzpwr60rE7INvs+bSoeERhP79UliWy+Lp0DpnPWUdn6xD8\nA168NwwpsulGyjGY0q8PXeBs\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-mq0ogglo5-9c3mmfjfz3w28fsx@cogent-coyote-317211.iam.gserviceaccount.com",
+  "client_id": "109387861350070877008",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-mq0ogglo5-9c3mmfjfz3w28fsx%40cogent-coyote-317211.iam.gserviceaccount.com"
+}
